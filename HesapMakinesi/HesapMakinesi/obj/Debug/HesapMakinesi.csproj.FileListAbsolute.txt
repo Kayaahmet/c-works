@@ -1,0 +1,66 @@
+C:\Users\Win7\Documents\Visual Studio 2008\Projects\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+C:\Users\Win7\Documents\Visual Studio 2008\Projects\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+C:\Users\Win7\Documents\Visual Studio 2008\Projects\HesapMakinesi\HesapMakinesi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Win7\Documents\Visual Studio 2008\Projects\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Form1.resources
+C:\Users\Win7\Documents\Visual Studio 2008\Projects\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Properties.Resources.resources
+C:\Users\Win7\Documents\Visual Studio 2008\Projects\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.GenerateResource.Cache
+C:\Users\Win7\Documents\Visual Studio 2008\Projects\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.exe
+C:\Users\Win7\Documents\Visual Studio 2008\Projects\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.pdb
+D:\PROJELER\ESKILER\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.exe
+D:\PROJELER\ESKILER\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.pdb
+D:\PROJELER\ESKILER\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+D:\PROJELER\ESKILER\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+D:\PROJELER\ESKILER\HesapMakinesi\HesapMakinesi\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJELER\ESKILER\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Form1.resources
+D:\PROJELER\ESKILER\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Properties.Resources.resources
+D:\PROJELER\ESKILER\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.GenerateResource.Cache
+C:\Users\boran\Desktop\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+C:\Users\boran\Desktop\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+C:\Users\boran\Desktop\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csprojResolveAssemblyReference.cache
+C:\Users\boran\Desktop\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Form1.resources
+C:\Users\boran\Desktop\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Properties.Resources.resources
+C:\Users\boran\Desktop\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.GenerateResource.Cache
+C:\Users\boran\Desktop\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\boran\Desktop\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.exe
+C:\Users\boran\Desktop\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.pdb
+C:\Users\boran\Desktop\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.geçmis.resources
+C:\Users\boran\Desktop\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.bilimsel.resources
+C:\Users\boran\Desktop\Belgelerim\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+C:\Users\boran\Desktop\Belgelerim\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csprojResolveAssemblyReference.cache
+C:\Users\boran\Desktop\Belgelerim\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.bilimsel.resources
+C:\Users\boran\Desktop\Belgelerim\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Form1.resources
+C:\Users\boran\Desktop\Belgelerim\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Properties.Resources.resources
+C:\Users\boran\Desktop\Belgelerim\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.GenerateResource.Cache
+C:\Users\boran\Desktop\Belgelerim\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\boran\Desktop\Belgelerim\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.exe
+C:\Users\boran\Desktop\Belgelerim\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.pdb
+C:\Users\boran\Desktop\Belgelerim\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+C:\Users\boran\Desktop\NTP PROJE ÖDEVİ\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+C:\Users\boran\Desktop\NTP PROJE ÖDEVİ\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+C:\Users\boran\Desktop\NTP PROJE ÖDEVİ\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csprojResolveAssemblyReference.cache
+C:\Users\boran\Desktop\NTP PROJE ÖDEVİ\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.bilimsel.resources
+C:\Users\boran\Desktop\NTP PROJE ÖDEVİ\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Form1.resources
+C:\Users\boran\Desktop\NTP PROJE ÖDEVİ\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Properties.Resources.resources
+C:\Users\boran\Desktop\NTP PROJE ÖDEVİ\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.GenerateResource.Cache
+C:\Users\boran\Desktop\NTP PROJE ÖDEVİ\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\boran\Desktop\NTP PROJE ÖDEVİ\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.exe
+C:\Users\boran\Desktop\NTP PROJE ÖDEVİ\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.pdb
+C:\Users\boran\Documents\Belgelerim\c#\c# projeler\NTP PROJE ÖDEVİ\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+C:\Users\boran\Documents\Belgelerim\c#\c# projeler\NTP PROJE ÖDEVİ\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+C:\Users\boran\Documents\Belgelerim\c#\c# projeler\NTP PROJE ÖDEVİ\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csprojResolveAssemblyReference.cache
+C:\Users\boran\Documents\Belgelerim\c#\c# projeler\NTP PROJE ÖDEVİ\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.bilimsel.resources
+C:\Users\boran\Documents\Belgelerim\c#\c# projeler\NTP PROJE ÖDEVİ\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Form1.resources
+C:\Users\boran\Documents\Belgelerim\c#\c# projeler\NTP PROJE ÖDEVİ\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Properties.Resources.resources
+C:\Users\boran\Documents\Belgelerim\c#\c# projeler\NTP PROJE ÖDEVİ\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.GenerateResource.Cache
+C:\Users\boran\Documents\Belgelerim\c#\c# projeler\NTP PROJE ÖDEVİ\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\boran\Documents\Belgelerim\c#\c# projeler\NTP PROJE ÖDEVİ\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.exe
+C:\Users\boran\Documents\Belgelerim\c#\c# projeler\NTP PROJE ÖDEVİ\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.pdb
+C:\Users\Ahmet\Desktop\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.exe
+C:\Users\Ahmet\Desktop\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.pdb
+C:\Users\Ahmet\Desktop\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+C:\Users\Ahmet\Desktop\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+C:\Users\Ahmet\Desktop\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet\Desktop\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.bilimsel.resources
+C:\Users\Ahmet\Desktop\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Form1.resources
+C:\Users\Ahmet\Desktop\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Properties.Resources.resources
+C:\Users\Ahmet\Desktop\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.GenerateResource.Cache
