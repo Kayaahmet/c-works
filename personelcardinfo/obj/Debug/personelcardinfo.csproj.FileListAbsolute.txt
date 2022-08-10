@@ -1,0 +1,13 @@
+C:\Users\Ahmet\Desktop\C# sınav\personelcardinfo\bin\Debug\personelcardinfo.exe.config
+C:\Users\Ahmet\Desktop\C# sınav\personelcardinfo\bin\Debug\personelcardinfo.exe
+C:\Users\Ahmet\Desktop\C# sınav\personelcardinfo\bin\Debug\personelcardinfo.pdb
+C:\Users\Ahmet\Desktop\C# sınav\personelcardinfo\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Ahmet\Desktop\C# sınav\personelcardinfo\obj\Debug\personelcardinfo.csprojAssemblyReference.cache
+C:\Users\Ahmet\Desktop\C# sınav\personelcardinfo\obj\Debug\personelcardinfo.Form1.resources
+C:\Users\Ahmet\Desktop\C# sınav\personelcardinfo\obj\Debug\personelcardinfo.Properties.Resources.resources
+C:\Users\Ahmet\Desktop\C# sınav\personelcardinfo\obj\Debug\personelcardinfo.csproj.GenerateResource.cache
+C:\Users\Ahmet\Desktop\C# sınav\personelcardinfo\obj\Debug\personelcardinfo.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\C# sınav\personelcardinfo\obj\Debug\personelcardinfo.csproj.CopyComplete
+C:\Users\Ahmet\Desktop\C# sınav\personelcardinfo\obj\Debug\personelcardinfo.exe
+C:\Users\Ahmet\Desktop\C# sınav\personelcardinfo\obj\Debug\personelcardinfo.pdb
+C:\Users\Ahmet\Desktop\C# sınav\personelcardinfo\obj\Debug\personelcardinfo.Form2.resources
